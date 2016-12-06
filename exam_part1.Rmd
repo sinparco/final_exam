@@ -1,0 +1,20 @@
+---
+title: "exam_part1"
+author: "Parco Sin"
+date: "December 6, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Part 1
+
+The results form a power analysis that takes into account 2 predictor variables (agreeableness and conscientiousness) with R2=.125, and a power of .85, reveals that there should be a sample size of 76. 
+
+```{r cars}
+summary(cars)
+```
+
